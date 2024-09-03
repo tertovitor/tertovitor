@@ -2,7 +2,7 @@
 
 ## 🙋 Sobre mim
 
-Sou Sargento na Força Aérea Brasileira. Atualmente, trabalho com diversas tecnologias e ferramentas, incluindo Java (com Spring), Angular, PHP e JSF.
+Sou Sargento da Força Aérea Brasileira. Atualmente, trabalho com diversas tecnologias e ferramentas, incluindo Java (com Spring), Angular, PHP e JSF.
 
 Estou cursando Sistemas de Informação e busco constantemente aprimorar minhas habilidades e conhecimentos em desenvolvimento de software. Minha experiência combina o rigor e a disciplina da carreira militar com a criatividade e a inovação do mundo da programação.
 
