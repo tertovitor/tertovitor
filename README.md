@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 Sou **Sargento da Força Aérea Brasileira** e atuo como desenvolvedor, com foco em **Java (Spring)** e **Angular**.
 
-Tenho experiência com **PHP**, **JSF** e desenvolvimento web. Atualmente curso **Sistemas de Informação** e estou sempre evoluindo minhas habilidades.
+Tenho experiência com **PHP**, **JSF** e **desenvolvimento web**. Atualmente curso **Sistemas de Informação** e estou sempre evoluindo minhas habilidades.
 
 Minha base profissional combina:
 - 🪖 Disciplina e organização da carreira militar  
@@ -21,7 +21,7 @@ Minha base profissional combina:
 
 I'm a **Brazilian Air Force Sergeant** working as a software developer, mainly with **Java (Spring)** and **Angular**.
 
-I also have experience with **PHP**, **JSF**, and web development. Currently studying **Information Systems**, always improving my technical skills.
+I also have experience with **PHP**, **JSF** and **web development**. Currently studying **Information Systems**, always improving my technical skills.
 
 ---
 
@@ -31,7 +31,7 @@ I also have experience with **PHP**, **JSF**, and web development. Currently stu
   <a href="https://web.dio.me/users/vitorterto_vt/">
     <img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge" />
   </a>
-  <a href="mailto:vitorterto.vt@gmail.com">
+  <a href="mailto:dev.vitorterto@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" />
   </a>
   <a href="https://www.linkedin.com/in/tertovitor/">
@@ -79,13 +79,11 @@ I also have experience with **PHP**, **JSF**, and web development. Currently stu
 
 🚧 Em breve...
 
-*(Adicione aqui seus principais projetos com link e descrição)*
-
 ---
 
 ## 🎓 Formação
 
-- 📚 Sistemas de Informação (em andamento)  
+- 📚 Sistemas de Informação (em andamento 7/8)
 - 💻 Técnico em Informática  
 
 ---
