@@ -1,42 +1,103 @@
-# Olá! Eu sou o Vítor Terto👋
+# 👋 Olá! Eu sou o Vítor Terto  
 
-## 🙋 Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=30A3DC&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+Angular;Sempre+evoluindo+🚀" />
+</p>
 
-Sou Sargento da Força Aérea Brasileira. Atualmente, trabalho com diversas tecnologias e ferramentas, incluindo Java (com Spring), Angular, PHP e JSF.
+---
 
-Estou cursando Sistemas de Informação e busco constantemente aprimorar minhas habilidades e conhecimentos em desenvolvimento de software. Minha experiência combina o rigor e a disciplina da carreira militar com a criatividade e a inovação do mundo da programação.
+## 🚀 Sobre mim
+Sou **Sargento da Força Aérea Brasileira** e atuo como desenvolvedor, com foco em **Java (Spring)** e **Angular**.
 
-## 📞Contato
+Tenho experiência com **PHP**, **JSF** e **desenvolvimento web**. Atualmente curso **Sistemas de Informação** e estou sempre evoluindo minhas habilidades.
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/vitorterto_vt/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vitorterto.vt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tertovitor/)
+Minha base profissional combina:
+- 🪖 Disciplina e organização da carreira militar  
+- 💻 Pensamento lógico e resolução de problemas  
 
+---
+
+## 🌎 About me (English)
+
+I'm a **Brazilian Air Force Sergeant** working as a software developer, mainly with **Java (Spring)** and **Angular**.
+
+I also have experience with **PHP**, **JSF** and **web development**. Currently studying **Information Systems**, always improving my technical skills.
+
+---
+
+## 📞 Contato
+
+<p align="center">
+  <a href="https://web.dio.me/users/vitorterto_vt/">
+    <img src="https://img.shields.io/badge/DIO-30A3DC?style=for-the-badge" />
+  </a>
+  <a href="mailto:dev.vitorterto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" />
+  </a>
+  <a href="https://www.linkedin.com/in/tertovitor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 💻 Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%234B4B77?style=for-the-badge&logo=php)
-![Angular](https://img.shields.io/badge/Angular-%230F0F11?style=for-the-badge&logo=angular)
-![Java](https://img.shields.io/badge/Java-%2399CC33?style=for-the-badge&logo=java)
-![JSF](https://img.shields.io/badge/JSF-%234B4B77?style=for-the-badge&logo=java)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,angular,spring" />
+</p>
 
-### GitHub Stats
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tertovitor&layout=compact&bg_color=000&border_color=30A3DC&text_color=FFF)
+## 📊 Estatísticas do GitHub
 
-## 📚 Formação 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tertovitor&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tertovitor&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- Cursando Sistemas de Informação
-- Técnico em informática
+---
 
-## Interesses
+## 🔥 Streak
 
-- Desenvolvimento de software
-- Tecnologias emergentes
-- Desafios técnicos e soluções criativas
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tertovitor&theme=tokyonight&hide_border=true" />
+</p>
 
-🚀 Estou sempre aberto a novos projetos e oportunidades de colaboração. Se você tiver alguma ideia interessante ou quiser discutir sobre tecnologia, sinta-se à vontade para entrar em contato!
+---
 
+## 🧠 Atualmente estudando
+
+- ⚡ Arquitetura de Software  
+- ☁️ APIs REST com Spring e Quarkus  
+- 🧩 Boas práticas em Angular  
+- 📄 Geração de relatórios com iText  
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em breve...
+
+---
+
+## 🎓 Formação
+
+- 📚 Sistemas de Informação (em andamento 7/8)
+- 💻 Técnico em Informática  
+
+---
+
+## 💡 Interesses
+
+- Desenvolvimento Full Stack  
+- Arquitetura de sistemas  
+- Tecnologias emergentes  
+- Resolução de problemas complexos  
+
+---
+
+## 🤝 Vamos nos conectar?
+
+🚀 Estou sempre aberto a novos projetos e oportunidades.  
+Se quiser trocar uma ideia ou colaborar, é só me chamar!
